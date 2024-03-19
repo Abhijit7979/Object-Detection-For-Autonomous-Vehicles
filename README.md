@@ -9,7 +9,7 @@ Detecting small objects like traffic signs and lights is more difficult due to t
 - R-CNN
 - SSD-1
 ## Data Sets
-- [BDD 100k](https://www.kaggle.com/datasets/solesensei/solesensei_bdd100k/data)
+- [BDD 100k](http://bdd-data.berkeley.edu/)
 ## Documentation
 
 - [PPT](https://github.com/Abhijit7979/Object-Detection-For-Autonomous-Vehicles/blob/main/Documents/Description%20PPT.pdf)
