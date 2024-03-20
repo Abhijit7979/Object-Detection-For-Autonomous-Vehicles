@@ -26,7 +26,7 @@ The Berkeley Deep Drive 100k. Data set is a large-scale diverse driving video da
 - [@Varshini](https://github.com/varshinivaddepalli)
 - [@Gagan neeli](https://github.com/gaganneeli)
 - [@Ashritha](https://github.com/sriashritha0403)
-- [@Srinivas Gurram]()
+- [@Srinivas Gurram](https://github.com/srinivasgurram6000)
 
 ## Reference Documents
 - [Research Papers](https://github.com/Abhijit7979/Object-Detection-For-Autonomous-Vehicles/tree/main/Research%20papers)
