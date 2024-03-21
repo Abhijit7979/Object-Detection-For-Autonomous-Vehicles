@@ -13,6 +13,7 @@ Detecting small objects like traffic signs and lights is more difficult due to t
 ## Data Set Description
 The Berkeley Deep Drive 100k. Data set is a large-scale diverse driving video dataset where it is split into three parts training (70K), validation (10K) and testing (20K) sets.The dataset contains not only images with high resolution (720p) and high frame rate (30fps), but also GPS/IMU recordings to preserve the driving trajectories and the videos were recorded in diverse weather conditions at different times of the day.The whole data set is captured in four  places they are New York, San Francisco ,Bay Area and Berkeley.
 ![](References/image-1.png)
+![](References/BDD_data_set.001.png)
 ## Documentation
 
 - [PPT](https://github.com/Abhijit7979/Object-Detection-For-Autonomous-Vehicles/blob/main/Documents/Description%20PPT.pdf)
