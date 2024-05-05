@@ -3,7 +3,8 @@
 
 Detecting small objects like traffic signs and lights is more difficult due to their complex design. Also, issues like uneven backgrounds and visual distortion from poor weather and lighting conditions make it difficult to identify small objects accurately. The project aims to develop an efficient algorithm for object detection in autonomous vehicles using the YOLO and CARLA.
 
-
+##Presentation 
+- [PPT](https://docs.google.com/presentation/d/1Lr0VBpTcvm5rvAFBqD53Gc952fLJjmiugZ4jqEfVi_U/edit?usp=sharing)
 ## Architectures
 - Yolo V5 - @ashritha
 - R-CNN - @gagan Research-1
@@ -32,5 +33,7 @@ The Berkeley Deep Drive 100k. Data set is a large-scale diverse driving video da
 
 ## Reference Documents
 - [Research Papers](https://github.com/Abhijit7979/Object-Detection-For-Autonomous-Vehicles/tree/main/Research%20papers)
+
+
 
 
