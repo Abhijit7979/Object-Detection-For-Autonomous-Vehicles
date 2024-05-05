@@ -5,11 +5,11 @@ Detecting small objects like traffic signs and lights is more difficult due to t
 
 
 ## Architectures
-- Yolo
-- R-CNN
-- SSD-1
+- Yolo V5 - @ashritha
+- R-CNN - @gagan Research-1
+- SSD-1 - @Srinivas Research -1
 ## Data Sets
-- [BDD 100k](http://bdd-data.berkeley.edu/)
+- [BDD 100k](http://bdd-data.berkeley.edu/) - @varshi @ashritha and Research-1
 ## Data Set Description
 The Berkeley Deep Drive 100k. Data set is a large-scale diverse driving video dataset where it is split into three parts training (70K), validation (10K) and testing (20K) sets.The dataset contains not only images with high resolution (720p) and high frame rate (30fps), but also GPS/IMU recordings to preserve the driving trajectories and the videos were recorded in diverse weather conditions at different times of the day.The whole data set is captured in four  places they are New York, San Francisco ,Bay Area and Berkeley.
 ![](References/image-1.png)
