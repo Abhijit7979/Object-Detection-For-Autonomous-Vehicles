@@ -5,6 +5,7 @@ Detecting small objects like traffic signs and lights is more difficult due to t
 
 ## Presentation 
 - [PPT](https://docs.google.com/presentation/d/1Lr0VBpTcvm5rvAFBqD53Gc952fLJjmiugZ4jqEfVi_U/edit?usp=sharing)
+- [PPT2](https://github.com/Abhijit7979/Object-Detection-For-Autonomous-Vehicles/blob/main/ppt2.pdf)
 ## Architectures
 - Yolo V5 - @ashritha
 - R-CNN - @gagan Research-1
